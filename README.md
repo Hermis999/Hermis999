@@ -1,79 +1,79 @@
 <div align="center">
-<h1 align="center">Hi there, i'm <a href="https://github.com/Hermis999">Hermis Julian Arias</a> 👋</h1>
+  <h1 align="center">Hi there, I'm <a href="https://github.com/Hermis999">Hermis Julián Arias</a> 👋</h1>
 </div>
 
-I'm a backend developer passionate about building scalable and efficient systems. Currently working with Java and Spring Boot, and expanding my knowledge in C++ and Scala. Always eager to learn and solve challenging problems by applying design patterns and best practices.
+### <div align="center">I'm a passionate Frontend Developer 💻 who loves building interactive and responsive user interfaces 🚀</div>
 
-Experience working with PostgreSQL, Docker, and microservices to develop robust backend applications. I enjoy exploring new technologies and continuously improving my skills in backend development.
+- 🔭 I’m currently working on improving my frontend portfolio and personal web projects  
+- 🌱 I’m currently learning advanced Vue.js and backend integration  
+- 💬 Ask me about anything related to JavaScript, Vue.js, and responsive design  
+- ⚡ Fun fact: I enjoy turning complex ideas into simple and elegant UI/UX  
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+---
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="80" />
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+## 🧠 My Skill Set  
 
+<table>
+<tr>
+<td valign="top" width="50%">
 
-
-
-</td><td valign="top" width="50%">
-
-### DevOps & Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
+### 🎨 Frontend
+<div align="center">
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+  <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+<td valign="top" width="50%">
 
-<br/>  
+### 🧰 Tools & DevOps
+<div align="center">
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="50" /></a>  
+  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code.svg" alt="VS Code" height="50" /></a>  
+</div>
 
-## 📊 &nbsp;GitHub Analytics
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-<a href="https://github.com/Hermis999">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hermis999&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hermis999&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Hermis999">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hermis999&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermis999&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  </a>
 </p>
 
-## Connect with me  
+---
+
+## 🌐 Connect with me  
+
 <div align="center">
-<a href="https://github.com/Hermis999" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/hermis-arias-b9b31834a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+  <a href="https://github.com/Hermis999" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hermis-arias-b9b31834a" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-<br/>
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hermis999&style=flat-square" alt="Profile views counter" />
+</div>
 
-<!--
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>✨ Generated with ❤️ by <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> ✨</sub>
+</div>
